@@ -1,6 +1,6 @@
-// let nama = null;
-// nama = "suwandi amin sangaji"
-// console.log(nama)
+let nama = null;
+nama = "suwandi amin sangaji"
+console.log(nama)
 
 // let angka = [1,3,5,4,3,8]
 // angka[1] = 100
@@ -80,3 +80,6 @@ let group = {
   };
   
 group.showList();
+
+mk = "RPL"
+console.log(mk)
